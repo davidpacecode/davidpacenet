@@ -1,0 +1,9 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Eevee"
+content: |
+  This is Eevee. She's a mini Bernedoodle.
+button: 
+  label: "Learn More"
+  link: "#"
+image: "images/Eevee.jpg"

@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Some things I'm reading, watching, playing, etc"
+content: |
+ I'm currently reading <a href="https://www.amazon.com/Cold-Blood-Truman-Capote/dp/0679745580">In Cold Blood.</a> I'm watching <a href="https://www.hulu.com/series/203cda1b-7919-40fb-ab36-1e45b3ed2a50">Fargo Season 2</a> and I'm trying to get back to playing <a href="https://supermariobroswonder.nintendo.com/">Super Mario Wonder</a> on <a href="https://www.nintendo.com/us/switch/">the Switch.</a> I may try to keep track of these things over time. 
+button: 
+  label: "Learn More"
+  link: "posts/booksgamesvideo"
+image: "images/bukowski-1280x768.jpg"

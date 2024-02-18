@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "davidpace.net"
+subtitle: |
+  None of the news that's fit to print...
+content : |
+  Welcome to davidpace.net. This site has been around off and on for close to 25 years. At its peak, marginally interesting content was published 2-3 times total before the entire site was taken down. This is the level of excellence I'm hoping to match...
+button:
+  label : "Get Started"
+  link : "#first"
+image : "images/TaylorSwiftasGod.jpg"
+
